@@ -30,18 +30,19 @@ An extended C++ console application designed for bank client management and acco
 
 ---
 
-## 📂 File Structure
+📁 File Structure
 
-```text
-├── Bank System Extension.cpp   # Main C++ Source Code
-├── Clients.text                # Flat-file database for storing client data
-└── README.md                   # Project documentation
+├── Bank System Project 2.cpp  # Main C++ Source Code
+├── Clients.text               # Flat-file database for storing client data
+└── README.md                  # Project documentation
+
+---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/90asahna-creator/Bank-System_2.git](https://github.com/90asahna-creator/Bank-System_2.git)
+   git clone https://github.com/90asahna-creator/Bank-System_2.git
 
 g++ -o BankSystem "Bank System Project 2.cpp"
 ./BankSystem
