@@ -78,10 +78,6 @@ This project is an extension of the previous Bank System, introducing a dedicate
 
     BankSystem.exe
 
-**Linux/macOS:**
-
-    ./BankSystem
-
 ---
 
 ## 🎯 Learning Objectives
@@ -138,4 +134,3 @@ This project is part of my ongoing journey to improve my C++ programming skills 
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
